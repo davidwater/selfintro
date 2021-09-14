@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Shui, Hsiu-Tsu's personal page
 
 You can use the [editor on GitHub](https://github.com/davidwater/self/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
